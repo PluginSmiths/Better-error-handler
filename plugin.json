@@ -1,0 +1,21 @@
+{
+  "id": "better_error_handler",
+  "weight": 30,
+  "minversion": 0,
+  "supportedversions": [
+    202400115713,
+    2024001,
+    2023004,
+    2024002,
+    202400115821,
+    202300499999,
+    202300400000,
+    2024003
+  ],
+  "info": {
+    "name": "Better error handler",
+    "version": "1.0",
+    "description": "Additional plugin for CAS that shows crash report when there's an error in procedure.",
+    "author": "OVONSAME"
+  }
+}
